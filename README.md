@@ -1,2 +1,2 @@
-# Flappy_Alt
+# FlappyGame
 Flappy Game
