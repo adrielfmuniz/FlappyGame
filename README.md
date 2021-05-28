@@ -1,2 +1,2 @@
 # FlappyGame
-Flappy Game Unity com C#
+Flappy Game 2D | Unity com C#
