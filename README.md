@@ -8,5 +8,5 @@ Flappy Game 2D | **Unity 3D** <a href="https://unity.com/" target="_blank"><img 
 
 
 <h3 align="center">Game Preview</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Flappy_Lara" width="304" height="640"/> </a>
+<p align="center"> <a target="_blank"> <img src="https://github.com/adrielfmuniz/FlappyGame/blob/main/Flappy%20Alt/Assets/flappyLara.gif" alt="Flappy_Lara" width="304" height="640"/> </a>
 
